@@ -9,5 +9,9 @@ class Spring5ReactiveRestApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	
+	@Test
+	void contextLoads1() {
+	}
 
 }
