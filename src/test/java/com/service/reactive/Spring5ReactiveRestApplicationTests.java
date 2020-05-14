@@ -14,7 +14,8 @@ class Spring5ReactiveRestApplicationTests {
 	
 	@Test
 	void contextLoads1() {
-		
+	//2. adding a line 
+     log.info("print it ");	
 	}
 
 }
