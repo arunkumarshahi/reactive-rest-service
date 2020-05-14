@@ -11,6 +11,7 @@ class Spring5ReactiveRestApplicationTests {
 	
 	@Test
 	void contextLoads() {
+		log.info("last change");
 	}
 	
 	@Test
